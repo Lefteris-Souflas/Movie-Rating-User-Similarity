@@ -1,4 +1,6 @@
 # Movie Rating User Similarity
+
+Assignment 1 for the Mining Big Datasets Course of AUEB's MSc in Business Analytics
 In this assignment, you will explore the use of Jaccard distance, Min-Hashing, and LSH in the context of user similarity in a movie rating dataset. To fulfill this assignment, you will have to perform the following tasks:
 
 ## 1) Import and pre-process the dataset with users
